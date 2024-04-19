@@ -1,0 +1,27 @@
+User-Agent: *
+Disallow: /page42575323.html
+Disallow: /privacy
+Disallow: /page42421645.html
+Disallow: /menu
+Disallow: /page42830626.html
+Disallow: /footer
+Disallow: /page46093205.html
+Disallow: /error
+Disallow: /page47583971.html
+Disallow: /thx
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://okna-v-tochku.ru/sitemap.xml
+Sitemap: https://okna-v-tochku.ru/sitemap-store.xml
+Sitemap: https://okna-v-tochku.ru/sitemap-feeds.xml
+Host: https://okna-v-tochku.ru
